@@ -12,4 +12,4 @@ article published by Panorama: Journal of the Historians of American Art.
 See: Mary Okin with Celie Mitchard, “From Center to Periphery: The Lifespan of New York City’s Tenth Street Studio Building and the Canon of American Art,” Panorama: Journal of the Association of Historians of American Art 8, no. 2 (Fall 2022), https://journalpanorama.org/article/from-center-to-periphery/. 
 Cite this dataset: Mary Okin with Celie Mitchard, "Mining @ Tenth Street: Tenth Street Studio Building Gender, Landlord, and Museum Collections Dataset," 2022, GitHub. 
 For more information, see the Mining @ Tenth Street project website at www.tenthstreetstudios.com 
-Questions? Please contact Mary Okin at tenthstreetstudiobuilding@gmail.com.
+Questions? Please contact Mary Okin at miningattenthstreet@gmail.com.
